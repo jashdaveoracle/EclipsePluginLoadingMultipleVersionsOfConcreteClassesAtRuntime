@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>DataAccessLayer</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>concrete-src</name>
+			<type>2</type>
+			<location>C:/Users/jadave.ORADEV/eclipse-workspace_oxygen/PluginRuntimeLoadingWithMultipleVersionsOfConcreteClasses/ConcreteImpl/src</location>
+		</link>
+		<link>
+			<name>iface-src</name>
+			<type>2</type>
+			<location>C:/Users/jadave.ORADEV/eclipse-workspace_oxygen/PluginRuntimeLoadingWithMultipleVersionsOfConcreteClasses/IFace/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
